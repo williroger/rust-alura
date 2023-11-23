@@ -1,0 +1,2 @@
+# rust-alura
+Aprendendo Rust
